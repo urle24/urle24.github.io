@@ -10,3 +10,6 @@ body {
 #title {
 	font-size: 21px;
 }
+#content {
+	line-height: 1.4;
+}
